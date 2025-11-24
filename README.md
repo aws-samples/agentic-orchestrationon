@@ -35,6 +35,8 @@ Develop your Reasoning Orchestration System: Combine the knowledge and tools you
 
 Test and Refine: Thoroughly test your reasoning orchestration system, and make any necessary adjustments to improve its performance and reliability.
 
+## Model fine-tune
+GVPO (Group Variance Policy Optimization) addresses the training instability issues of GRPO while providing stronger theoretical guarantees. The key innovation is incorporating the analytical solution to KL-constrained reward maximization directly into gradient weights through a clever zero-sum weight constraint that eliminates the intractable partition function.
 
 ## Definitions
 
