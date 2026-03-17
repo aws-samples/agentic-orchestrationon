@@ -8,7 +8,7 @@ typing-extensions
 langchain-community==0.2.17
 langchain-core==0.2.40
 langchain_huggingface==0.0.3
-langchain==0.2.16
+langchain==0.3.0
 langgraph==0.2.22
 sec_api
 opensearch-py
